@@ -1,0 +1,533 @@
+﻿country;country_code;year;indicator;value
+Africa Eastern and Southern;AFE;2019;Exports of goods and services (% of GDP);23.9488254031749
+Africa Eastern and Southern;AFE;2015;Exports of goods and services (% of GDP);23.908542224775
+Africa Western and Central;AFW;2019;Exports of goods and services (% of GDP);
+Africa Western and Central;AFW;2015;Exports of goods and services (% of GDP);
+Arab World;ARB;2019;Exports of goods and services (% of GDP);41.932029685868
+Arab World;ARB;2015;Exports of goods and services (% of GDP);40.0715424799473
+Caribbean small states;CSS;2019;Exports of goods and services (% of GDP);
+Caribbean small states;CSS;2015;Exports of goods and services (% of GDP);
+Central Europe and the Baltics;CEB;2019;Exports of goods and services (% of GDP);61.784779524602
+Central Europe and the Baltics;CEB;2015;Exports of goods and services (% of GDP);61.1411899568956
+Early-demographic dividend;EAR;2019;Exports of goods and services (% of GDP);24.8960962996496
+Early-demographic dividend;EAR;2015;Exports of goods and services (% of GDP);23.7799465120692
+East Asia & Pacific;EAS;2019;Exports of goods and services (% of GDP);27.4246265950396
+East Asia & Pacific;EAS;2015;Exports of goods and services (% of GDP);29.6953055484701
+East Asia & Pacific (excluding high income);EAP;2019;Exports of goods and services (% of GDP);22.1272734554508
+East Asia & Pacific (excluding high income);EAP;2015;Exports of goods and services (% of GDP);24.6209279345968
+East Asia & Pacific (IDA & IBRD countries);TEA;2019;Exports of goods and services (% of GDP);22.1259587253319
+East Asia & Pacific (IDA & IBRD countries);TEA;2015;Exports of goods and services (% of GDP);24.6197747853209
+Euro area;EMU;2019;Exports of goods and services (% of GDP);47.4971764950763
+Euro area;EMU;2015;Exports of goods and services (% of GDP);45.1917505360391
+Europe & Central Asia;ECS;2019;Exports of goods and services (% of GDP);44.5113712368816
+Europe & Central Asia;ECS;2015;Exports of goods and services (% of GDP);41.5826583168446
+Europe & Central Asia (excluding high income);ECA;2019;Exports of goods and services (% of GDP);36.738604707671
+Europe & Central Asia (excluding high income);ECA;2015;Exports of goods and services (% of GDP);29.2938471978276
+Europe & Central Asia (IDA & IBRD countries);TEC;2019;Exports of goods and services (% of GDP);36.5323635224876
+Europe & Central Asia (IDA & IBRD countries);TEC;2015;Exports of goods and services (% of GDP);32.7207132167938
+European Union;EUU;2019;Exports of goods and services (% of GDP);48.6059850968009
+European Union;EUU;2015;Exports of goods and services (% of GDP);46.260905005542
+Fragility, Conflict, and Violence (FCV) situations;FCV;2019;Exports of goods and services (% of GDP);21.8689876110792
+Fragility, Conflict, and Violence (FCV) situations;FCV;2015;Exports of goods and services (% of GDP);20.1905485151817
+Heavily indebted poor countries (HIPC);HPC;2019;Exports of goods and services (% of GDP);22.8067342866393
+Heavily indebted poor countries (HIPC);HPC;2015;Exports of goods and services (% of GDP);22.0172608416931
+High income;;2019;Exports of goods and services (% of GDP);30.8511192720229
+High income;;2015;Exports of goods and services (% of GDP);30.5769100718405
+IBRD only;IBD;2019;Exports of goods and services (% of GDP);24.3239969408622
+IBRD only;IBD;2015;Exports of goods and services (% of GDP);24.703707588817
+IDA & IBRD total;IBT;2019;Exports of goods and services (% of GDP);23.7680820143478
+IDA & IBRD total;IBT;2015;Exports of goods and services (% of GDP);24.1421857820304
+IDA blend;IDB;2019;Exports of goods and services (% of GDP);
+IDA blend;IDB;2015;Exports of goods and services (% of GDP);
+IDA only;IDX;2019;Exports of goods and services (% of GDP);21.5243012965568
+IDA only;IDX;2015;Exports of goods and services (% of GDP);21.4422986428305
+IDA total;IDA;2019;Exports of goods and services (% of GDP);18.2929812562651
+IDA total;IDA;2015;Exports of goods and services (% of GDP);18.2576773557926
+Late-demographic dividend;LTE;2019;Exports of goods and services (% of GDP);27.8940884133834
+Late-demographic dividend;LTE;2015;Exports of goods and services (% of GDP);29.1443975247175
+Latin America & Caribbean;LCN;2019;Exports of goods and services (% of GDP);24.7322642652843
+Latin America & Caribbean;LCN;2015;Exports of goods and services (% of GDP);22.4652109909731
+Latin America & Caribbean (excluding high income);LAC;2019;Exports of goods and services (% of GDP);23.1302935324347
+Latin America & Caribbean (excluding high income);LAC;2015;Exports of goods and services (% of GDP);20.5232579766172
+Latin America & the Caribbean (IDA & IBRD countries);TLA;2019;Exports of goods and services (% of GDP);24.2049214622868
+Latin America & the Caribbean (IDA & IBRD countries);TLA;2015;Exports of goods and services (% of GDP);21.5736106606431
+Least developed countries: UN classification;LDC;2019;Exports of goods and services (% of GDP);20.4392184529233
+Least developed countries: UN classification;LDC;2015;Exports of goods and services (% of GDP);20.1262271637581
+Low & middle income;LMY;2019;Exports of goods and services (% of GDP);22.4931828358942
+Low & middle income;LMY;2015;Exports of goods and services (% of GDP);23.0681989527103
+Low income;;2019;Exports of goods and services (% of GDP);18.0774399014707
+Low income;;2015;Exports of goods and services (% of GDP);16.5215335617458
+Lower middle income;;2019;Exports of goods and services (% of GDP);19.5150007500864
+Lower middle income;;2015;Exports of goods and services (% of GDP);20.1803415791542
+Middle East, North Africa, Afghanistan & Pakistan;MEA;2019;Exports of goods and services (% of GDP);36.8661402185697
+Middle East, North Africa, Afghanistan & Pakistan;MEA;2015;Exports of goods and services (% of GDP);34.8878321193938
+Middle East, North Africa, Afghanistan & Pakistan (excluding high income);MNA;2019;Exports of goods and services (% of GDP);22.7369142649176
+Middle East, North Africa, Afghanistan & Pakistan (excluding high income);MNA;2015;Exports of goods and services (% of GDP);19.1432797244381
+Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD);TMN;2019;Exports of goods and services (% of GDP);22.8055618008362
+Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD);TMN;2015;Exports of goods and services (% of GDP);19.1681101242673
+Middle income;MIC;2019;Exports of goods and services (% of GDP);22.566848535676
+Middle income;MIC;2015;Exports of goods and services (% of GDP);23.1863382287114
+North America;NAC;2019;Exports of goods and services (% of GDP);13.3414465949147
+North America;NAC;2015;Exports of goods and services (% of GDP);13.947371981991
+Not classified;;2019;Exports of goods and services (% of GDP);
+Not classified;;2015;Exports of goods and services (% of GDP);
+OECD members;OED;2019;Exports of goods and services (% of GDP);27.7168620093837
+OECD members;OED;2015;Exports of goods and services (% of GDP);27.0514147457863
+Other small states;OSS;2019;Exports of goods and services (% of GDP);70.0864864729072
+Other small states;OSS;2015;Exports of goods and services (% of GDP);68.552222105881
+Pacific island small states;PSS;2019;Exports of goods and services (% of GDP);41.8767983657132
+Pacific island small states;PSS;2015;Exports of goods and services (% of GDP);41.5246015493382
+Post-demographic dividend;PST;2019;Exports of goods and services (% of GDP);28.4929827964013
+Post-demographic dividend;PST;2015;Exports of goods and services (% of GDP);28.267075324984
+Pre-demographic dividend;PRE;2019;Exports of goods and services (% of GDP);20.346520473502
+Pre-demographic dividend;PRE;2015;Exports of goods and services (% of GDP);19.5866243509935
+Small states;SST;2019;Exports of goods and services (% of GDP);70.9673617077355
+Small states;SST;2015;Exports of goods and services (% of GDP);64.7707496672382
+South Asia;SAS;2019;Exports of goods and services (% of GDP);18.1387691771773
+South Asia;SAS;2015;Exports of goods and services (% of GDP);19.6264627468981
+South Asia (IDA & IBRD);TSA;2019;Exports of goods and services (% of GDP);18.1387691771773
+South Asia (IDA & IBRD);TSA;2015;Exports of goods and services (% of GDP);19.6264627468981
+Sub-Saharan Africa;SSF;2019;Exports of goods and services (% of GDP);20.7401046538348
+Sub-Saharan Africa;SSF;2015;Exports of goods and services (% of GDP);21.4247121363613
+Sub-Saharan Africa (excluding high income);SSA;2019;Exports of goods and services (% of GDP);20.6737288524133
+Sub-Saharan Africa (excluding high income);SSA;2015;Exports of goods and services (% of GDP);21.3563325163819
+Sub-Saharan Africa (IDA & IBRD countries);TSS;2019;Exports of goods and services (% of GDP);20.7401046538348
+Sub-Saharan Africa (IDA & IBRD countries);TSS;2015;Exports of goods and services (% of GDP);21.4247121363613
+Upper middle income;;2019;Exports of goods and services (% of GDP);23.3824101155209
+Upper middle income;;2015;Exports of goods and services (% of GDP);23.9463774537385
+World;WLD;2019;Exports of goods and services (% of GDP);27.9427827143405
+World;WLD;2015;Exports of goods and services (% of GDP);28.0495689042812
+Afghanistan;AFG;2019;Exports of goods and services (% of GDP);
+Afghanistan;AFG;2015;Exports of goods and services (% of GDP);
+Albania;ALB;2019;Exports of goods and services (% of GDP);30.9361224858484
+Albania;ALB;2015;Exports of goods and services (% of GDP);27.0693224620319
+Algeria;DZA;2019;Exports of goods and services (% of GDP);20.407941949491
+Algeria;DZA;2015;Exports of goods and services (% of GDP);20.5281416810455
+American Samoa;ASM;2019;Exports of goods and services (% of GDP);61.6692426584235
+American Samoa;ASM;2015;Exports of goods and services (% of GDP);63.5958395245171
+Andorra;AND;2019;Exports of goods and services (% of GDP);
+Andorra;AND;2015;Exports of goods and services (% of GDP);
+Angola;AGO;2019;Exports of goods and services (% of GDP);36.9500822651989
+Angola;AGO;2015;Exports of goods and services (% of GDP);26.1489317126281
+Antigua and Barbuda;ATG;2019;Exports of goods and services (% of GDP);69.1646948026456
+Antigua and Barbuda;ATG;2015;Exports of goods and services (% of GDP);70.7044967935257
+Argentina;ARG;2019;Exports of goods and services (% of GDP);17.9248783778462
+Argentina;ARG;2015;Exports of goods and services (% of GDP);10.7056520504538
+Armenia;ARM;2019;Exports of goods and services (% of GDP);42.2626073502911
+Armenia;ARM;2015;Exports of goods and services (% of GDP);29.7253912120334
+Aruba;ABW;2019;Exports of goods and services (% of GDP);66.7030809219838
+Aruba;ABW;2015;Exports of goods and services (% of GDP);70.3217227986333
+Australia;AUS;2019;Exports of goods and services (% of GDP);24.0624800210722
+Australia;AUS;2015;Exports of goods and services (% of GDP);19.9846454503255
+Austria;AUT;2019;Exports of goods and services (% of GDP);55.8958073929339
+Austria;AUT;2015;Exports of goods and services (% of GDP);53.3960122723239
+Azerbaijan;AZE;2019;Exports of goods and services (% of GDP);49.0506275016423
+Azerbaijan;AZE;2015;Exports of goods and services (% of GDP);37.7947774917249
+Bahamas, The;BHS;2019;Exports of goods and services (% of GDP);34.9807938540333
+Bahamas, The;BHS;2015;Exports of goods and services (% of GDP);35.8315874839494
+Bahrain;BHR;2019;Exports of goods and services (% of GDP);73.0944239873751
+Bahrain;BHR;2015;Exports of goods and services (% of GDP);79.3441035722346
+Bangladesh;BGD;2019;Exports of goods and services (% of GDP);13.0947573353039
+Bangladesh;BGD;2015;Exports of goods and services (% of GDP);17.3366737865485
+Barbados;BRB;2019;Exports of goods and services (% of GDP);
+Barbados;BRB;2015;Exports of goods and services (% of GDP);
+Belarus;BLR;2019;Exports of goods and services (% of GDP);65.0945839929757
+Belarus;BLR;2015;Exports of goods and services (% of GDP);58.0107665670743
+Belgium;BEL;2019;Exports of goods and services (% of GDP);82.9674275396401
+Belgium;BEL;2015;Exports of goods and services (% of GDP);77.8777392199991
+Belize;BLZ;2019;Exports of goods and services (% of GDP);52.0189198848801
+Belize;BLZ;2015;Exports of goods and services (% of GDP);51.5667685462712
+Benin;BEN;2019;Exports of goods and services (% of GDP);29.6305271935478
+Benin;BEN;2015;Exports of goods and services (% of GDP);24.7204512110389
+Bermuda;BMU;2019;Exports of goods and services (% of GDP);51.7434243981752
+Bermuda;BMU;2015;Exports of goods and services (% of GDP);49.9708394613543
+Bhutan;BTN;2019;Exports of goods and services (% of GDP);31.4575032617598
+Bhutan;BTN;2015;Exports of goods and services (% of GDP);31.5360910045004
+Bolivia;BOL;2019;Exports of goods and services (% of GDP);20.0474399352249
+Bolivia;BOL;2015;Exports of goods and services (% of GDP);30.8682960291245
+Bosnia and Herzegovina;BIH;2019;Exports of goods and services (% of GDP);40.040069270151
+Bosnia and Herzegovina;BIH;2015;Exports of goods and services (% of GDP);35.1148767232101
+Botswana;BWA;2019;Exports of goods and services (% of GDP);37.0878176552067
+Botswana;BWA;2015;Exports of goods and services (% of GDP);53.0908973428197
+Brazil;BRA;2019;Exports of goods and services (% of GDP);14.1229191913178
+Brazil;BRA;2015;Exports of goods and services (% of GDP);12.900191418386
+British Virgin Islands;VGB;2019;Exports of goods and services (% of GDP);
+British Virgin Islands;VGB;2015;Exports of goods and services (% of GDP);
+Brunei Darussalam;BRN;2019;Exports of goods and services (% of GDP);57.946040538108
+Brunei Darussalam;BRN;2015;Exports of goods and services (% of GDP);52.2130112286937
+Bulgaria;BGR;2019;Exports of goods and services (% of GDP);64.300587723502
+Bulgaria;BGR;2015;Exports of goods and services (% of GDP);63.7864222949735
+Burkina Faso;BFA;2019;Exports of goods and services (% of GDP);29.2576956572794
+Burkina Faso;BFA;2015;Exports of goods and services (% of GDP);26.1076455357024
+Burundi;BDI;2019;Exports of goods and services (% of GDP);
+Burundi;BDI;2015;Exports of goods and services (% of GDP);
+Cabo Verde;CPV;2019;Exports of goods and services (% of GDP);46.7050331370949
+Cabo Verde;CPV;2015;Exports of goods and services (% of GDP);41.1352016327173
+Cambodia;KHM;2019;Exports of goods and services (% of GDP);55.4468679729119
+Cambodia;KHM;2015;Exports of goods and services (% of GDP);55.9812203124044
+Cameroon;CMR;2019;Exports of goods and services (% of GDP);19.8500907473186
+Cameroon;CMR;2015;Exports of goods and services (% of GDP);20.9891496295315
+Canada;CAN;2019;Exports of goods and services (% of GDP);32.3526259007732
+Canada;CAN;2015;Exports of goods and services (% of GDP);31.8499289605736
+Cayman Islands;CYM;2019;Exports of goods and services (% of GDP);69.4710255697764
+Cayman Islands;CYM;2015;Exports of goods and services (% of GDP);
+Central African Republic;CAF;2019;Exports of goods and services (% of GDP);15.7553800018083
+Central African Republic;CAF;2015;Exports of goods and services (% of GDP);17.0676606236635
+Chad;TCD;2019;Exports of goods and services (% of GDP);24.968456965958
+Chad;TCD;2015;Exports of goods and services (% of GDP);27.9084800637597
+Channel Islands;CHI;2019;Exports of goods and services (% of GDP);
+Channel Islands;CHI;2015;Exports of goods and services (% of GDP);
+Chile;CHL;2019;Exports of goods and services (% of GDP);27.8723266080413
+Chile;CHL;2015;Exports of goods and services (% of GDP);29.1910790733686
+China;CHN;2019;Exports of goods and services (% of GDP);18.1398222864053
+China;CHN;2015;Exports of goods and services (% of GDP);20.9390642234326
+Colombia;COL;2019;Exports of goods and services (% of GDP);15.8680386541241
+Colombia;COL;2015;Exports of goods and services (% of GDP);15.6502115094968
+Comoros;COM;2019;Exports of goods and services (% of GDP);12.7734606325226
+Comoros;COM;2015;Exports of goods and services (% of GDP);10.1361983069761
+Congo, Dem. Rep.;COD;2019;Exports of goods and services (% of GDP);28.4657291929772
+Congo, Dem. Rep.;COD;2015;Exports of goods and services (% of GDP);26.0071219054555
+Congo, Rep.;COG;2019;Exports of goods and services (% of GDP);56.1988143702835
+Congo, Rep.;COG;2015;Exports of goods and services (% of GDP);40.8570487934502
+Costa Rica;CRI;2019;Exports of goods and services (% of GDP);34.1472985859666
+Costa Rica;CRI;2015;Exports of goods and services (% of GDP);29.9956579824958
+Cote d'Ivoire;CIV;2019;Exports of goods and services (% of GDP);22.6604887650452
+Cote d'Ivoire;CIV;2015;Exports of goods and services (% of GDP);27.3553887828515
+Croatia;HRV;2019;Exports of goods and services (% of GDP);50.4917495355699
+Croatia;HRV;2015;Exports of goods and services (% of GDP);45.4314058216943
+Cuba;CUB;2019;Exports of goods and services (% of GDP);12.2133743797594
+Cuba;CUB;2015;Exports of goods and services (% of GDP);17.1473888133975
+Curacao;CUW;2019;Exports of goods and services (% of GDP);
+Curacao;CUW;2015;Exports of goods and services (% of GDP);68.4941164317425
+Cyprus;CYP;2019;Exports of goods and services (% of GDP);75.7588643662806
+Cyprus;CYP;2015;Exports of goods and services (% of GDP);70.0173031293258
+Czechia;CZE;2019;Exports of goods and services (% of GDP);72.1248511386482
+Czechia;CZE;2015;Exports of goods and services (% of GDP);80.0125671431762
+Denmark;DNK;2019;Exports of goods and services (% of GDP);58.9506079167167
+Denmark;DNK;2015;Exports of goods and services (% of GDP);55.8143215733858
+Djibouti;DJI;2019;Exports of goods and services (% of GDP);166.717864481384
+Djibouti;DJI;2015;Exports of goods and services (% of GDP);145.421307480105
+Dominica;DMA;2019;Exports of goods and services (% of GDP);
+Dominica;DMA;2015;Exports of goods and services (% of GDP);
+Dominican Republic;DOM;2019;Exports of goods and services (% of GDP);23.325332586795
+Dominican Republic;DOM;2015;Exports of goods and services (% of GDP);24.0368347236543
+Ecuador;ECU;2019;Exports of goods and services (% of GDP);24.0486345985713
+Ecuador;ECU;2015;Exports of goods and services (% of GDP);22.754485726599
+Egypt, Arab Rep.;EGY;2019;Exports of goods and services (% of GDP);16.6440314510365
+Egypt, Arab Rep.;EGY;2015;Exports of goods and services (% of GDP);13.1838454928598
+El Salvador;SLV;2019;Exports of goods and services (% of GDP);29.9559096080003
+El Salvador;SLV;2015;Exports of goods and services (% of GDP);29.4861730232304
+Equatorial Guinea;GNQ;2019;Exports of goods and services (% of GDP);51.1307495482003
+Equatorial Guinea;GNQ;2015;Exports of goods and services (% of GDP);56.6584738218082
+Eritrea;ERI;2019;Exports of goods and services (% of GDP);
+Eritrea;ERI;2015;Exports of goods and services (% of GDP);
+Estonia;EST;2019;Exports of goods and services (% of GDP);72.0191543549198
+Estonia;EST;2015;Exports of goods and services (% of GDP);76.0344602333505
+Eswatini;SWZ;2019;Exports of goods and services (% of GDP);44.7614845159035
+Eswatini;SWZ;2015;Exports of goods and services (% of GDP);44.8587759692711
+Ethiopia;ETH;2019;Exports of goods and services (% of GDP);7.93996502525176
+Ethiopia;ETH;2015;Exports of goods and services (% of GDP);9.36331359735926
+Faroe Islands;FRO;2019;Exports of goods and services (% of GDP);55.7697162765718
+Faroe Islands;FRO;2015;Exports of goods and services (% of GDP);53.2164924640527
+Fiji;FJI;2019;Exports of goods and services (% of GDP);50.6482147032588
+Fiji;FJI;2015;Exports of goods and services (% of GDP);48.8367555799083
+Finland;FIN;2019;Exports of goods and services (% of GDP);40.6183181143561
+Finland;FIN;2015;Exports of goods and services (% of GDP);35.7815711349623
+France;FRA;2019;Exports of goods and services (% of GDP);32.8895429451147
+France;FRA;2015;Exports of goods and services (% of GDP);31.6934947262689
+French Polynesia;PYF;2019;Exports of goods and services (% of GDP);20.5923590296429
+French Polynesia;PYF;2015;Exports of goods and services (% of GDP);19.613765074754
+Gabon;GAB;2019;Exports of goods and services (% of GDP);51.4310732271996
+Gabon;GAB;2015;Exports of goods and services (% of GDP);46.0320085043705
+Gambia, The;GMB;2019;Exports of goods and services (% of GDP);20.1658912380486
+Gambia, The;GMB;2015;Exports of goods and services (% of GDP);15.5708485829147
+Georgia;GEO;2019;Exports of goods and services (% of GDP);54.3043084100873
+Georgia;GEO;2015;Exports of goods and services (% of GDP);40.1372493342596
+Germany;DEU;2019;Exports of goods and services (% of GDP);42.3402444816356
+Germany;DEU;2015;Exports of goods and services (% of GDP);42.5853976151835
+Ghana;GHA;2019;Exports of goods and services (% of GDP);37.4495998625311
+Ghana;GHA;2015;Exports of goods and services (% of GDP);33.8317048233696
+Gibraltar;GIB;2019;Exports of goods and services (% of GDP);
+Gibraltar;GIB;2015;Exports of goods and services (% of GDP);
+Greece;GRC;2019;Exports of goods and services (% of GDP);39.5602885530263
+Greece;GRC;2015;Exports of goods and services (% of GDP);32.1863593046186
+Greenland;GRL;2019;Exports of goods and services (% of GDP);41.0427004962382
+Greenland;GRL;2015;Exports of goods and services (% of GDP);37.5798451272169
+Grenada;GRD;2019;Exports of goods and services (% of GDP);
+Grenada;GRD;2015;Exports of goods and services (% of GDP);
+Guam;GUM;2019;Exports of goods and services (% of GDP);22.2501966955153
+Guam;GUM;2015;Exports of goods and services (% of GDP);18.0720813933437
+Guatemala;GTM;2019;Exports of goods and services (% of GDP);17.6119727745274
+Guatemala;GTM;2015;Exports of goods and services (% of GDP);19.8299071093932
+Guinea;GIN;2019;Exports of goods and services (% of GDP);35.0420493356329
+Guinea;GIN;2015;Exports of goods and services (% of GDP);21.4968719824351
+Guinea-Bissau;GNB;2019;Exports of goods and services (% of GDP);18.2810341557162
+Guinea-Bissau;GNB;2015;Exports of goods and services (% of GDP);25.0467119622253
+Guyana;GUY;2019;Exports of goods and services (% of GDP);
+Guyana;GUY;2015;Exports of goods and services (% of GDP);
+Haiti;HTI;2019;Exports of goods and services (% of GDP);10.5576734334849
+Haiti;HTI;2015;Exports of goods and services (% of GDP);11.767746984448
+Honduras;HND;2019;Exports of goods and services (% of GDP);40.2185209903792
+Honduras;HND;2015;Exports of goods and services (% of GDP);45.1667574562581
+Hong Kong SAR, China;HKG;2019;Exports of goods and services (% of GDP);177.651315174364
+Hong Kong SAR, China;HKG;2015;Exports of goods and services (% of GDP);195.89760161449
+Hungary;HUN;2019;Exports of goods and services (% of GDP);81.065700696964
+Hungary;HUN;2015;Exports of goods and services (% of GDP);87.4348841373907
+Iceland;ISL;2019;Exports of goods and services (% of GDP);44.7138622775299
+Iceland;ISL;2015;Exports of goods and services (% of GDP);51.3347744437234
+India;IND;2019;Exports of goods and services (% of GDP);18.664264897257
+India;IND;2015;Exports of goods and services (% of GDP);19.8131891564045
+Indonesia;IDN;2019;Exports of goods and services (% of GDP);18.5915277970883
+Indonesia;IDN;2015;Exports of goods and services (% of GDP);21.1601792598059
+Iran, Islamic Rep.;IRN;2019;Exports of goods and services (% of GDP);22.3147082096412
+Iran, Islamic Rep.;IRN;2015;Exports of goods and services (% of GDP);18.7208345068656
+Iraq;IRQ;2019;Exports of goods and services (% of GDP);38.0518681988838
+Iraq;IRQ;2015;Exports of goods and services (% of GDP);34.5141464410956
+Ireland;IRL;2019;Exports of goods and services (% of GDP);131.224509342169
+Ireland;IRL;2015;Exports of goods and services (% of GDP);126.687521960845
+Isle of Man;IMN;2019;Exports of goods and services (% of GDP);
+Isle of Man;IMN;2015;Exports of goods and services (% of GDP);
+Israel;ISR;2019;Exports of goods and services (% of GDP);29.0853955837603
+Israel;ISR;2015;Exports of goods and services (% of GDP);30.9258891134922
+Italy;ITA;2019;Exports of goods and services (% of GDP);30.9498739181942
+Italy;ITA;2015;Exports of goods and services (% of GDP);29.144111052532
+Jamaica;JAM;2019;Exports of goods and services (% of GDP);
+Jamaica;JAM;2015;Exports of goods and services (% of GDP);
+Japan;JPN;2019;Exports of goods and services (% of GDP);17.0377974181499
+Japan;JPN;2015;Exports of goods and services (% of GDP);17.0921099786159
+Jordan;JOR;2019;Exports of goods and services (% of GDP);
+Jordan;JOR;2015;Exports of goods and services (% of GDP);
+Kazakhstan;KAZ;2019;Exports of goods and services (% of GDP);36.4389870990994
+Kazakhstan;KAZ;2015;Exports of goods and services (% of GDP);28.5167080072354
+Kenya;KEN;2019;Exports of goods and services (% of GDP);11.4279956869332
+Kenya;KEN;2015;Exports of goods and services (% of GDP);15.1287339034504
+Kiribati;KIR;2019;Exports of goods and services (% of GDP);14.9888877146964
+Kiribati;KIR;2015;Exports of goods and services (% of GDP);13.957451247692
+Korea, Dem. People's Rep.;PRK;2019;Exports of goods and services (% of GDP);
+Korea, Dem. People's Rep.;PRK;2015;Exports of goods and services (% of GDP);
+Korea, Rep.;KOR;2019;Exports of goods and services (% of GDP);37.0413266370488
+Korea, Rep.;KOR;2015;Exports of goods and services (% of GDP);40.9681314540182
+Kosovo;XKX;2019;Exports of goods and services (% of GDP);29.3126074591152
+Kosovo;XKX;2015;Exports of goods and services (% of GDP);22.4513928552736
+Kuwait;KWT;2019;Exports of goods and services (% of GDP);52.0582560763879
+Kuwait;KWT;2015;Exports of goods and services (% of GDP);53.7653724505163
+Kyrgyz Republic;KGZ;2019;Exports of goods and services (% of GDP);33.4764696600324
+Kyrgyz Republic;KGZ;2015;Exports of goods and services (% of GDP);35.1896004872594
+Lao PDR;LAO;2019;Exports of goods and services (% of GDP);
+Lao PDR;LAO;2015;Exports of goods and services (% of GDP);33.9522573081909
+Latvia;LVA;2019;Exports of goods and services (% of GDP);62.5368430163073
+Latvia;LVA;2015;Exports of goods and services (% of GDP);62.5955625575744
+Lebanon;LBN;2019;Exports of goods and services (% of GDP);20.6977589567577
+Lebanon;LBN;2015;Exports of goods and services (% of GDP);23.1396677268024
+Lesotho;LSO;2019;Exports of goods and services (% of GDP);46.2093281781161
+Lesotho;LSO;2015;Exports of goods and services (% of GDP);42.8918037123102
+Liberia;LBR;2019;Exports of goods and services (% of GDP);
+Liberia;LBR;2015;Exports of goods and services (% of GDP);
+Libya;LBY;2019;Exports of goods and services (% of GDP);42.35532240076
+Libya;LBY;2015;Exports of goods and services (% of GDP);22.2273741215145
+Liechtenstein;LIE;2019;Exports of goods and services (% of GDP);
+Liechtenstein;LIE;2015;Exports of goods and services (% of GDP);
+Lithuania;LTU;2019;Exports of goods and services (% of GDP);76.8187229886379
+Lithuania;LTU;2015;Exports of goods and services (% of GDP);68.6043807818409
+Luxembourg;LUX;2019;Exports of goods and services (% of GDP);206.580145839872
+Luxembourg;LUX;2015;Exports of goods and services (% of GDP);191.835428725013
+Macao SAR, China;MAC;2019;Exports of goods and services (% of GDP);82.646781315937
+Macao SAR, China;MAC;2015;Exports of goods and services (% of GDP);78.704970614381
+Madagascar;MDG;2019;Exports of goods and services (% of GDP);28.4244012431975
+Madagascar;MDG;2015;Exports of goods and services (% of GDP);28.3906461296836
+Malawi;MWI;2019;Exports of goods and services (% of GDP);12.9894565946906
+Malawi;MWI;2015;Exports of goods and services (% of GDP);
+Malaysia;MYS;2019;Exports of goods and services (% of GDP);65.2777668428576
+Malaysia;MYS;2015;Exports of goods and services (% of GDP);69.4486908970754
+Maldives;MDV;2019;Exports of goods and services (% of GDP);65.5134179400092
+Maldives;MDV;2015;Exports of goods and services (% of GDP);76.4277887724561
+Mali;MLI;2019;Exports of goods and services (% of GDP);21.7272254994959
+Mali;MLI;2015;Exports of goods and services (% of GDP);20.2239475938187
+Malta;MLT;2019;Exports of goods and services (% of GDP);124.520039315181
+Malta;MLT;2015;Exports of goods and services (% of GDP);108.732584061859
+Marshall Islands;MHL;2019;Exports of goods and services (% of GDP);37.0618720480893
+Marshall Islands;MHL;2015;Exports of goods and services (% of GDP);44.2421883505716
+Mauritania;MRT;2019;Exports of goods and services (% of GDP);42.3975240406607
+Mauritania;MRT;2015;Exports of goods and services (% of GDP);30.1951447553349
+Mauritius;MUS;2019;Exports of goods and services (% of GDP);60.3459360407147
+Mauritius;MUS;2015;Exports of goods and services (% of GDP);64.5652688880706
+Mexico;MEX;2019;Exports of goods and services (% of GDP);38.5296507889335
+Mexico;MEX;2015;Exports of goods and services (% of GDP);34.1627726891004
+Micronesia, Fed. Sts.;FSM;2019;Exports of goods and services (% of GDP);35.4430379746835
+Micronesia, Fed. Sts.;FSM;2015;Exports of goods and services (% of GDP);28.525641025641
+Moldova;MDA;2019;Exports of goods and services (% of GDP);31.1910849579769
+Moldova;MDA;2015;Exports of goods and services (% of GDP);31.8069217883307
+Monaco;MCO;2019;Exports of goods and services (% of GDP);
+Monaco;MCO;2015;Exports of goods and services (% of GDP);
+Mongolia;MNG;2019;Exports of goods and services (% of GDP);59.2172331806539
+Mongolia;MNG;2015;Exports of goods and services (% of GDP);44.1840502346828
+Montenegro;MNE;2019;Exports of goods and services (% of GDP);44.3238379207013
+Montenegro;MNE;2015;Exports of goods and services (% of GDP);42.7283879053238
+Morocco;MAR;2019;Exports of goods and services (% of GDP);34.093057468891
+Morocco;MAR;2015;Exports of goods and services (% of GDP);29.9958538899695
+Mozambique;MOZ;2019;Exports of goods and services (% of GDP);37.1420563608323
+Mozambique;MOZ;2015;Exports of goods and services (% of GDP);32.5722935328402
+Myanmar;MMR;2019;Exports of goods and services (% of GDP);
+Myanmar;MMR;2015;Exports of goods and services (% of GDP);
+Namibia;NAM;2019;Exports of goods and services (% of GDP);36.4008818615818
+Namibia;NAM;2015;Exports of goods and services (% of GDP);35.3708484097637
+Naoero;NRU;2019;Exports of goods and services (% of GDP);60.3950285714286
+Naoero;NRU;2015;Exports of goods and services (% of GDP);71.5686274509804
+Nepal;NPL;2019;Exports of goods and services (% of GDP);7.77993647445109
+Nepal;NPL;2015;Exports of goods and services (% of GDP);10.2145885930146
+Netherlands;NLD;2019;Exports of goods and services (% of GDP);85.3209394926528
+Netherlands;NLD;2015;Exports of goods and services (% of GDP);83.9918475345943
+New Caledonia;NCL;2019;Exports of goods and services (% of GDP);18.3293636039604
+New Caledonia;NCL;2015;Exports of goods and services (% of GDP);18.0691662889356
+New Zealand;NZL;2019;Exports of goods and services (% of GDP);27.320284070356
+New Zealand;NZL;2015;Exports of goods and services (% of GDP);27.9457760345104
+Nicaragua;NIC;2019;Exports of goods and services (% of GDP);44.8044297851925
+Nicaragua;NIC;2015;Exports of goods and services (% of GDP);40.0837782888412
+Niger;NER;2019;Exports of goods and services (% of GDP);11.9560620288967
+Niger;NER;2015;Exports of goods and services (% of GDP);14.2683699619368
+Nigeria;NGA;2019;Exports of goods and services (% of GDP);
+Nigeria;NGA;2015;Exports of goods and services (% of GDP);
+North Macedonia;MKD;2019;Exports of goods and services (% of GDP);62.4080567878813
+North Macedonia;MKD;2015;Exports of goods and services (% of GDP);48.7379999069691
+Northern Mariana Islands;MNP;2019;Exports of goods and services (% of GDP);42.4936386768448
+Northern Mariana Islands;MNP;2015;Exports of goods and services (% of GDP);52.967032967033
+Norway;NOR;2019;Exports of goods and services (% of GDP);35.6950517697888
+Norway;NOR;2015;Exports of goods and services (% of GDP);37.7795790425628
+Oman;OMN;2019;Exports of goods and services (% of GDP);49.4929030047786
+Oman;OMN;2015;Exports of goods and services (% of GDP);49.652560938135
+Pakistan;PAK;2019;Exports of goods and services (% of GDP);9.3908635386027
+Pakistan;PAK;2015;Exports of goods and services (% of GDP);9.97457095124036
+Palau;PLW;2019;Exports of goods and services (% of GDP);38.3226341885556
+Palau;PLW;2015;Exports of goods and services (% of GDP);53.640192108917
+Panama;PAN;2019;Exports of goods and services (% of GDP);40.2141745207689
+Panama;PAN;2015;Exports of goods and services (% of GDP);47.3866198943049
+Papua New Guinea;PNG;2019;Exports of goods and services (% of GDP);
+Papua New Guinea;PNG;2015;Exports of goods and services (% of GDP);
+Paraguay;PRY;2019;Exports of goods and services (% of GDP);36.0872909434467
+Paraguay;PRY;2015;Exports of goods and services (% of GDP);34.734658699956
+Peru;PER;2019;Exports of goods and services (% of GDP);24.0390874349068
+Peru;PER;2015;Exports of goods and services (% of GDP);21.2873252858958
+Philippines;PHL;2019;Exports of goods and services (% of GDP);28.3829200126393
+Philippines;PHL;2015;Exports of goods and services (% of GDP);27.2080572390451
+Poland;POL;2019;Exports of goods and services (% of GDP);52.6128934811742
+Poland;POL;2015;Exports of goods and services (% of GDP);47.1616367257527
+Portugal;PRT;2019;Exports of goods and services (% of GDP);43.6531259432991
+Portugal;PRT;2015;Exports of goods and services (% of GDP);40.6876664090066
+Puerto Rico (US);PRI;2019;Exports of goods and services (% of GDP);60.5788840862048
+Puerto Rico (US);PRI;2015;Exports of goods and services (% of GDP);67.1949349700848
+Qatar;QAT;2019;Exports of goods and services (% of GDP);52.1888599262863
+Qatar;QAT;2015;Exports of goods and services (% of GDP);57.061477766584
+Romania;ROU;2019;Exports of goods and services (% of GDP);40.3352034270657
+Romania;ROU;2015;Exports of goods and services (% of GDP);41.3491935848306
+Russian Federation;RUS;2019;Exports of goods and services (% of GDP);28.4334306799759
+Russian Federation;RUS;2015;Exports of goods and services (% of GDP);28.703389442924
+Rwanda;RWA;2019;Exports of goods and services (% of GDP);22.0304453174238
+Rwanda;RWA;2015;Exports of goods and services (% of GDP);13.3866171186652
+Samoa;WSM;2019;Exports of goods and services (% of GDP);35.033330142378
+Samoa;WSM;2015;Exports of goods and services (% of GDP);27.1409467284846
+San Marino;SMR;2019;Exports of goods and services (% of GDP);163.997236624232
+San Marino;SMR;2015;Exports of goods and services (% of GDP);174.452679413476
+Sao Tome and Principe;STP;2019;Exports of goods and services (% of GDP);16.7195626461315
+Sao Tome and Principe;STP;2015;Exports of goods and services (% of GDP);33.708137548603
+Saudi Arabia;SAU;2019;Exports of goods and services (% of GDP);32.159204977113
+Saudi Arabia;SAU;2015;Exports of goods and services (% of GDP);31.4401316153804
+Senegal;SEN;2019;Exports of goods and services (% of GDP);24.9831341973865
+Senegal;SEN;2015;Exports of goods and services (% of GDP);22.6771945016724
+Serbia;SRB;2019;Exports of goods and services (% of GDP);48.9609956559925
+Serbia;SRB;2015;Exports of goods and services (% of GDP);43.3851219752155
+Seychelles;SYC;2019;Exports of goods and services (% of GDP);82.3562686214226
+Seychelles;SYC;2015;Exports of goods and services (% of GDP);90.0846282601248
+Sierra Leone;SLE;2019;Exports of goods and services (% of GDP);9.6941408328194
+Sierra Leone;SLE;2015;Exports of goods and services (% of GDP);10.4849570007466
+Singapore;SGP;2019;Exports of goods and services (% of GDP);176.819042272174
+Singapore;SGP;2015;Exports of goods and services (% of GDP);178.384608499682
+Sint Maarten (Dutch part);SXM;2019;Exports of goods and services (% of GDP);
+Sint Maarten (Dutch part);SXM;2015;Exports of goods and services (% of GDP);
+Slovak Republic;SVK;2019;Exports of goods and services (% of GDP);91.8440865121276
+Slovak Republic;SVK;2015;Exports of goods and services (% of GDP);90.6938496191421
+Slovenia;SVN;2019;Exports of goods and services (% of GDP);84.3570583498527
+Slovenia;SVN;2015;Exports of goods and services (% of GDP);77.6641701406595
+Solomon Islands;SLB;2019;Exports of goods and services (% of GDP);36.4970023039809
+Solomon Islands;SLB;2015;Exports of goods and services (% of GDP);40.3605536351233
+Somalia, Fed. Rep.;SOM;2019;Exports of goods and services (% of GDP);13.0660813308688
+Somalia, Fed. Rep.;SOM;2015;Exports of goods and services (% of GDP);16.8715688310983
+South Africa;ZAF;2019;Exports of goods and services (% of GDP);27.2021294051151
+South Africa;ZAF;2015;Exports of goods and services (% of GDP);27.7136384124829
+South Sudan;SSD;2019;Exports of goods and services (% of GDP);
+South Sudan;SSD;2015;Exports of goods and services (% of GDP);36.6513492804707
+Spain;ESP;2019;Exports of goods and services (% of GDP);34.6755629292261
+Spain;ESP;2015;Exports of goods and services (% of GDP);33.2986849561039
+Sri Lanka;LKA;2019;Exports of goods and services (% of GDP);21.8235309246323
+Sri Lanka;LKA;2015;Exports of goods and services (% of GDP);19.893383820467
+St. Kitts and Nevis;KNA;2019;Exports of goods and services (% of GDP);
+St. Kitts and Nevis;KNA;2015;Exports of goods and services (% of GDP);
+St. Lucia;LCA;2019;Exports of goods and services (% of GDP);
+St. Lucia;LCA;2015;Exports of goods and services (% of GDP);
+St. Martin (French part);MAF;2019;Exports of goods and services (% of GDP);
+St. Martin (French part);MAF;2015;Exports of goods and services (% of GDP);
+St. Vincent and the Grenadines;VCT;2019;Exports of goods and services (% of GDP);
+St. Vincent and the Grenadines;VCT;2015;Exports of goods and services (% of GDP);
+Sudan;SDN;2019;Exports of goods and services (% of GDP);8.45298341762853
+Sudan;SDN;2015;Exports of goods and services (% of GDP);6.42291092918573
+Suriname;SUR;2019;Exports of goods and services (% of GDP);
+Suriname;SUR;2015;Exports of goods and services (% of GDP);
+Sweden;SWE;2019;Exports of goods and services (% of GDP);48.2886583812982
+Sweden;SWE;2015;Exports of goods and services (% of GDP);43.7114624281719
+Switzerland;CHE;2019;Exports of goods and services (% of GDP);66.1484505764437
+Switzerland;CHE;2015;Exports of goods and services (% of GDP);63.254588058839
+Syrian Arab Republic;SYR;2019;Exports of goods and services (% of GDP);13.0100655511925
+Syrian Arab Republic;SYR;2015;Exports of goods and services (% of GDP);14.2911061178655
+Tajikistan;TJK;2019;Exports of goods and services (% of GDP);14.9799392742745
+Tajikistan;TJK;2015;Exports of goods and services (% of GDP);9.80269842951246
+Tanzania;TZA;2019;Exports of goods and services (% of GDP);16.0367461484986
+Tanzania;TZA;2015;Exports of goods and services (% of GDP);17.1049115530965
+Thailand;THA;2019;Exports of goods and services (% of GDP);59.5188906218859
+Thailand;THA;2015;Exports of goods and services (% of GDP);67.6366902705865
+Timor-Leste;TLS;2019;Exports of goods and services (% of GDP);21.2143177359833
+Timor-Leste;TLS;2015;Exports of goods and services (% of GDP);3.05030729133392
+Togo;TGO;2019;Exports of goods and services (% of GDP);23.9067157858872
+Togo;TGO;2015;Exports of goods and services (% of GDP);26.7106298715077
+Tonga;TON;2019;Exports of goods and services (% of GDP);22.2333008455097
+Tonga;TON;2015;Exports of goods and services (% of GDP);16.9581444477641
+Trinidad and Tobago;TTO;2019;Exports of goods and services (% of GDP);
+Trinidad and Tobago;TTO;2015;Exports of goods and services (% of GDP);
+Tunisia;TUN;2019;Exports of goods and services (% of GDP);45.9503306922947
+Tunisia;TUN;2015;Exports of goods and services (% of GDP);38.3998387567342
+Turkiye;TUR;2019;Exports of goods and services (% of GDP);33.0298811646869
+Turkiye;TUR;2015;Exports of goods and services (% of GDP);25.280784580735
+Turkmenistan;TKM;2019;Exports of goods and services (% of GDP);24.6892177117083
+Turkmenistan;TKM;2015;Exports of goods and services (% of GDP);33.9780175420394
+Turks and Caicos Islands;TCA;2019;Exports of goods and services (% of GDP);
+Turks and Caicos Islands;TCA;2015;Exports of goods and services (% of GDP);
+Tuvalu;TUV;2019;Exports of goods and services (% of GDP);
+Tuvalu;TUV;2015;Exports of goods and services (% of GDP);
+Uganda;UGA;2019;Exports of goods and services (% of GDP);17.1090580167383
+Uganda;UGA;2015;Exports of goods and services (% of GDP);12.8773253147369
+Ukraine;UKR;2019;Exports of goods and services (% of GDP);41.2316912560049
+Ukraine;UKR;2015;Exports of goods and services (% of GDP);52.5976795082231
+United Arab Emirates;ARE;2019;Exports of goods and services (% of GDP);93.3023068879995
+United Arab Emirates;ARE;2015;Exports of goods and services (% of GDP);93.8625203312699
+United Kingdom;GBR;2019;Exports of goods and services (% of GDP);31.9028602803155
+United Kingdom;GBR;2015;Exports of goods and services (% of GDP);27.8790736176463
+United States;USA;2019;Exports of goods and services (% of GDP);11.7891974097286
+United States;USA;2015;Exports of goods and services (% of GDP);12.4111486301271
+Uruguay;URY;2019;Exports of goods and services (% of GDP);27.9053781710424
+Uruguay;URY;2015;Exports of goods and services (% of GDP);22.4778512515741
+Uzbekistan;UZB;2019;Exports of goods and services (% of GDP);24.3107685844352
+Uzbekistan;UZB;2015;Exports of goods and services (% of GDP);12.1686103143078
+Vanuatu;VUT;2019;Exports of goods and services (% of GDP);30.9251687275235
+Vanuatu;VUT;2015;Exports of goods and services (% of GDP);34.7621346205417
+Venezuela, RB;VEN;2019;Exports of goods and services (% of GDP);47.195725949267
+Venezuela, RB;VEN;2015;Exports of goods and services (% of GDP);40.7547169811321
+Viet Nam;VNM;2019;Exports of goods and services (% of GDP);85.1575874073411
+Viet Nam;VNM;2015;Exports of goods and services (% of GDP);72.9228518369495
+Virgin Islands (U.S.);VIR;2019;Exports of goods and services (% of GDP);54.9623877699587
+Virgin Islands (U.S.);VIR;2015;Exports of goods and services (% of GDP);41.6325416325416
+West Bank and Gaza;PSE;2019;Exports of goods and services (% of GDP);15.5210552426533
+West Bank and Gaza;PSE;2015;Exports of goods and services (% of GDP);16.0623801208096
+Yemen, Rep.;YEM;2019;Exports of goods and services (% of GDP);
+Yemen, Rep.;YEM;2015;Exports of goods and services (% of GDP);9.05157754562319
+Zambia;ZMB;2019;Exports of goods and services (% of GDP);34.6361926031881
+Zambia;ZMB;2015;Exports of goods and services (% of GDP);37.1385258014734
+Zimbabwe;ZWE;2019;Exports of goods and services (% of GDP);18.0339064047572
+Zimbabwe;ZWE;2015;Exports of goods and services (% of GDP);19.160627339066

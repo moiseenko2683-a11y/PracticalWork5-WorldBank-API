@@ -1,0 +1,3726 @@
+[
+    {
+        "country": "Africa Eastern and Southern",
+        "country_code": "AFE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.9488254031749
+    },
+    {
+        "country": "Africa Eastern and Southern",
+        "country_code": "AFE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.908542224775
+    },
+    {
+        "country": "Africa Western and Central",
+        "country_code": "AFW",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Africa Western and Central",
+        "country_code": "AFW",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Arab World",
+        "country_code": "ARB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.932029685868
+    },
+    {
+        "country": "Arab World",
+        "country_code": "ARB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.0715424799473
+    },
+    {
+        "country": "Caribbean small states",
+        "country_code": "CSS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Caribbean small states",
+        "country_code": "CSS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 61.784779524602
+    },
+    {
+        "country": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 61.1411899568956
+    },
+    {
+        "country": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.8960962996496
+    },
+    {
+        "country": "Early-demographic dividend",
+        "country_code": "EAR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.7799465120692
+    },
+    {
+        "country": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.4246265950396
+    },
+    {
+        "country": "East Asia & Pacific",
+        "country_code": "EAS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.6953055484701
+    },
+    {
+        "country": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.1272734554508
+    },
+    {
+        "country": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.6209279345968
+    },
+    {
+        "country": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.1259587253319
+    },
+    {
+        "country": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.6197747853209
+    },
+    {
+        "country": "Euro area",
+        "country_code": "EMU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 47.4971764950763
+    },
+    {
+        "country": "Euro area",
+        "country_code": "EMU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 45.1917505360391
+    },
+    {
+        "country": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.5113712368816
+    },
+    {
+        "country": "Europe & Central Asia",
+        "country_code": "ECS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.5826583168446
+    },
+    {
+        "country": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.738604707671
+    },
+    {
+        "country": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.2938471978276
+    },
+    {
+        "country": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.5323635224876
+    },
+    {
+        "country": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 32.7207132167938
+    },
+    {
+        "country": "European Union",
+        "country_code": "EUU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 48.6059850968009
+    },
+    {
+        "country": "European Union",
+        "country_code": "EUU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 46.260905005542
+    },
+    {
+        "country": "Fragility, Conflict, and Violence (FCV) situations",
+        "country_code": "FCV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.8689876110792
+    },
+    {
+        "country": "Fragility, Conflict, and Violence (FCV) situations",
+        "country_code": "FCV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.1905485151817
+    },
+    {
+        "country": "Heavily indebted poor countries (HIPC)",
+        "country_code": "HPC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.8067342866393
+    },
+    {
+        "country": "Heavily indebted poor countries (HIPC)",
+        "country_code": "HPC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.0172608416931
+    },
+    {
+        "country": "High income",
+        "country_code": "",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.8511192720229
+    },
+    {
+        "country": "High income",
+        "country_code": "",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.5769100718405
+    },
+    {
+        "country": "IBRD only",
+        "country_code": "IBD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.3239969408622
+    },
+    {
+        "country": "IBRD only",
+        "country_code": "IBD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.703707588817
+    },
+    {
+        "country": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.7680820143478
+    },
+    {
+        "country": "IDA & IBRD total",
+        "country_code": "IBT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.1421857820304
+    },
+    {
+        "country": "IDA blend",
+        "country_code": "IDB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "IDA blend",
+        "country_code": "IDB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "IDA only",
+        "country_code": "IDX",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.5243012965568
+    },
+    {
+        "country": "IDA only",
+        "country_code": "IDX",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.4422986428305
+    },
+    {
+        "country": "IDA total",
+        "country_code": "IDA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.2929812562651
+    },
+    {
+        "country": "IDA total",
+        "country_code": "IDA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.2576773557926
+    },
+    {
+        "country": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.8940884133834
+    },
+    {
+        "country": "Late-demographic dividend",
+        "country_code": "LTE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.1443975247175
+    },
+    {
+        "country": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.7322642652843
+    },
+    {
+        "country": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.4652109909731
+    },
+    {
+        "country": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.1302935324347
+    },
+    {
+        "country": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.5232579766172
+    },
+    {
+        "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.2049214622868
+    },
+    {
+        "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.5736106606431
+    },
+    {
+        "country": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.4392184529233
+    },
+    {
+        "country": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.1262271637581
+    },
+    {
+        "country": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.4931828358942
+    },
+    {
+        "country": "Low & middle income",
+        "country_code": "LMY",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.0681989527103
+    },
+    {
+        "country": "Low income",
+        "country_code": "",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.0774399014707
+    },
+    {
+        "country": "Low income",
+        "country_code": "",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.5215335617458
+    },
+    {
+        "country": "Lower middle income",
+        "country_code": "",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.5150007500864
+    },
+    {
+        "country": "Lower middle income",
+        "country_code": "",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.1803415791542
+    },
+    {
+        "country": "Middle East, North Africa, Afghanistan & Pakistan",
+        "country_code": "MEA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.8661402185697
+    },
+    {
+        "country": "Middle East, North Africa, Afghanistan & Pakistan",
+        "country_code": "MEA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.8878321193938
+    },
+    {
+        "country": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
+        "country_code": "MNA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.7369142649176
+    },
+    {
+        "country": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
+        "country_code": "MNA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.1432797244381
+    },
+    {
+        "country": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",
+        "country_code": "TMN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.8055618008362
+    },
+    {
+        "country": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",
+        "country_code": "TMN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.1681101242673
+    },
+    {
+        "country": "Middle income",
+        "country_code": "MIC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.566848535676
+    },
+    {
+        "country": "Middle income",
+        "country_code": "MIC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.1863382287114
+    },
+    {
+        "country": "North America",
+        "country_code": "NAC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.3414465949147
+    },
+    {
+        "country": "North America",
+        "country_code": "NAC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.947371981991
+    },
+    {
+        "country": "Not classified",
+        "country_code": "",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Not classified",
+        "country_code": "",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "OECD members",
+        "country_code": "OED",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.7168620093837
+    },
+    {
+        "country": "OECD members",
+        "country_code": "OED",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.0514147457863
+    },
+    {
+        "country": "Other small states",
+        "country_code": "OSS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 70.0864864729072
+    },
+    {
+        "country": "Other small states",
+        "country_code": "OSS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 68.552222105881
+    },
+    {
+        "country": "Pacific island small states",
+        "country_code": "PSS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.8767983657132
+    },
+    {
+        "country": "Pacific island small states",
+        "country_code": "PSS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.5246015493382
+    },
+    {
+        "country": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.4929827964013
+    },
+    {
+        "country": "Post-demographic dividend",
+        "country_code": "PST",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.267075324984
+    },
+    {
+        "country": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.346520473502
+    },
+    {
+        "country": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.5866243509935
+    },
+    {
+        "country": "Small states",
+        "country_code": "SST",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 70.9673617077355
+    },
+    {
+        "country": "Small states",
+        "country_code": "SST",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 64.7707496672382
+    },
+    {
+        "country": "South Asia",
+        "country_code": "SAS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.1387691771773
+    },
+    {
+        "country": "South Asia",
+        "country_code": "SAS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.6264627468981
+    },
+    {
+        "country": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.1387691771773
+    },
+    {
+        "country": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.6264627468981
+    },
+    {
+        "country": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.7401046538348
+    },
+    {
+        "country": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.4247121363613
+    },
+    {
+        "country": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.6737288524133
+    },
+    {
+        "country": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.3563325163819
+    },
+    {
+        "country": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.7401046538348
+    },
+    {
+        "country": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.4247121363613
+    },
+    {
+        "country": "Upper middle income",
+        "country_code": "",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.3824101155209
+    },
+    {
+        "country": "Upper middle income",
+        "country_code": "",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.9463774537385
+    },
+    {
+        "country": "World",
+        "country_code": "WLD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.9427827143405
+    },
+    {
+        "country": "World",
+        "country_code": "WLD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.0495689042812
+    },
+    {
+        "country": "Afghanistan",
+        "country_code": "AFG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Afghanistan",
+        "country_code": "AFG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Albania",
+        "country_code": "ALB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.9361224858484
+    },
+    {
+        "country": "Albania",
+        "country_code": "ALB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.0693224620319
+    },
+    {
+        "country": "Algeria",
+        "country_code": "DZA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.407941949491
+    },
+    {
+        "country": "Algeria",
+        "country_code": "DZA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.5281416810455
+    },
+    {
+        "country": "American Samoa",
+        "country_code": "ASM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 61.6692426584235
+    },
+    {
+        "country": "American Samoa",
+        "country_code": "ASM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 63.5958395245171
+    },
+    {
+        "country": "Andorra",
+        "country_code": "AND",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Andorra",
+        "country_code": "AND",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Angola",
+        "country_code": "AGO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.9500822651989
+    },
+    {
+        "country": "Angola",
+        "country_code": "AGO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 26.1489317126281
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "country_code": "ATG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 69.1646948026456
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "country_code": "ATG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 70.7044967935257
+    },
+    {
+        "country": "Argentina",
+        "country_code": "ARG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.9248783778462
+    },
+    {
+        "country": "Argentina",
+        "country_code": "ARG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 10.7056520504538
+    },
+    {
+        "country": "Armenia",
+        "country_code": "ARM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.2626073502911
+    },
+    {
+        "country": "Armenia",
+        "country_code": "ARM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.7253912120334
+    },
+    {
+        "country": "Aruba",
+        "country_code": "ABW",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 66.7030809219838
+    },
+    {
+        "country": "Aruba",
+        "country_code": "ABW",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 70.3217227986333
+    },
+    {
+        "country": "Australia",
+        "country_code": "AUS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.0624800210722
+    },
+    {
+        "country": "Australia",
+        "country_code": "AUS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.9846454503255
+    },
+    {
+        "country": "Austria",
+        "country_code": "AUT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 55.8958073929339
+    },
+    {
+        "country": "Austria",
+        "country_code": "AUT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 53.3960122723239
+    },
+    {
+        "country": "Azerbaijan",
+        "country_code": "AZE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 49.0506275016423
+    },
+    {
+        "country": "Azerbaijan",
+        "country_code": "AZE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.7947774917249
+    },
+    {
+        "country": "Bahamas, The",
+        "country_code": "BHS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.9807938540333
+    },
+    {
+        "country": "Bahamas, The",
+        "country_code": "BHS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.8315874839494
+    },
+    {
+        "country": "Bahrain",
+        "country_code": "BHR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 73.0944239873751
+    },
+    {
+        "country": "Bahrain",
+        "country_code": "BHR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 79.3441035722346
+    },
+    {
+        "country": "Bangladesh",
+        "country_code": "BGD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.0947573353039
+    },
+    {
+        "country": "Bangladesh",
+        "country_code": "BGD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.3366737865485
+    },
+    {
+        "country": "Barbados",
+        "country_code": "BRB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Barbados",
+        "country_code": "BRB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Belarus",
+        "country_code": "BLR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 65.0945839929757
+    },
+    {
+        "country": "Belarus",
+        "country_code": "BLR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 58.0107665670743
+    },
+    {
+        "country": "Belgium",
+        "country_code": "BEL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 82.9674275396401
+    },
+    {
+        "country": "Belgium",
+        "country_code": "BEL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 77.8777392199991
+    },
+    {
+        "country": "Belize",
+        "country_code": "BLZ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.0189198848801
+    },
+    {
+        "country": "Belize",
+        "country_code": "BLZ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 51.5667685462712
+    },
+    {
+        "country": "Benin",
+        "country_code": "BEN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.6305271935478
+    },
+    {
+        "country": "Benin",
+        "country_code": "BEN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.7204512110389
+    },
+    {
+        "country": "Bermuda",
+        "country_code": "BMU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 51.7434243981752
+    },
+    {
+        "country": "Bermuda",
+        "country_code": "BMU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 49.9708394613543
+    },
+    {
+        "country": "Bhutan",
+        "country_code": "BTN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.4575032617598
+    },
+    {
+        "country": "Bhutan",
+        "country_code": "BTN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.5360910045004
+    },
+    {
+        "country": "Bolivia",
+        "country_code": "BOL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.0474399352249
+    },
+    {
+        "country": "Bolivia",
+        "country_code": "BOL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.8682960291245
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "country_code": "BIH",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.040069270151
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "country_code": "BIH",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.1148767232101
+    },
+    {
+        "country": "Botswana",
+        "country_code": "BWA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.0878176552067
+    },
+    {
+        "country": "Botswana",
+        "country_code": "BWA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 53.0908973428197
+    },
+    {
+        "country": "Brazil",
+        "country_code": "BRA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 14.1229191913178
+    },
+    {
+        "country": "Brazil",
+        "country_code": "BRA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.900191418386
+    },
+    {
+        "country": "British Virgin Islands",
+        "country_code": "VGB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "British Virgin Islands",
+        "country_code": "VGB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Brunei Darussalam",
+        "country_code": "BRN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 57.946040538108
+    },
+    {
+        "country": "Brunei Darussalam",
+        "country_code": "BRN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.2130112286937
+    },
+    {
+        "country": "Bulgaria",
+        "country_code": "BGR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 64.300587723502
+    },
+    {
+        "country": "Bulgaria",
+        "country_code": "BGR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 63.7864222949735
+    },
+    {
+        "country": "Burkina Faso",
+        "country_code": "BFA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.2576956572794
+    },
+    {
+        "country": "Burkina Faso",
+        "country_code": "BFA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 26.1076455357024
+    },
+    {
+        "country": "Burundi",
+        "country_code": "BDI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Burundi",
+        "country_code": "BDI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Cabo Verde",
+        "country_code": "CPV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 46.7050331370949
+    },
+    {
+        "country": "Cabo Verde",
+        "country_code": "CPV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.1352016327173
+    },
+    {
+        "country": "Cambodia",
+        "country_code": "KHM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 55.4468679729119
+    },
+    {
+        "country": "Cambodia",
+        "country_code": "KHM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 55.9812203124044
+    },
+    {
+        "country": "Cameroon",
+        "country_code": "CMR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.8500907473186
+    },
+    {
+        "country": "Cameroon",
+        "country_code": "CMR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.9891496295315
+    },
+    {
+        "country": "Canada",
+        "country_code": "CAN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 32.3526259007732
+    },
+    {
+        "country": "Canada",
+        "country_code": "CAN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.8499289605736
+    },
+    {
+        "country": "Cayman Islands",
+        "country_code": "CYM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 69.4710255697764
+    },
+    {
+        "country": "Cayman Islands",
+        "country_code": "CYM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Central African Republic",
+        "country_code": "CAF",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 15.7553800018083
+    },
+    {
+        "country": "Central African Republic",
+        "country_code": "CAF",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.0676606236635
+    },
+    {
+        "country": "Chad",
+        "country_code": "TCD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.968456965958
+    },
+    {
+        "country": "Chad",
+        "country_code": "TCD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.9084800637597
+    },
+    {
+        "country": "Channel Islands",
+        "country_code": "CHI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Channel Islands",
+        "country_code": "CHI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Chile",
+        "country_code": "CHL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.8723266080413
+    },
+    {
+        "country": "Chile",
+        "country_code": "CHL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.1910790733686
+    },
+    {
+        "country": "China",
+        "country_code": "CHN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.1398222864053
+    },
+    {
+        "country": "China",
+        "country_code": "CHN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.9390642234326
+    },
+    {
+        "country": "Colombia",
+        "country_code": "COL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 15.8680386541241
+    },
+    {
+        "country": "Colombia",
+        "country_code": "COL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 15.6502115094968
+    },
+    {
+        "country": "Comoros",
+        "country_code": "COM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.7734606325226
+    },
+    {
+        "country": "Comoros",
+        "country_code": "COM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 10.1361983069761
+    },
+    {
+        "country": "Congo, Dem. Rep.",
+        "country_code": "COD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.4657291929772
+    },
+    {
+        "country": "Congo, Dem. Rep.",
+        "country_code": "COD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 26.0071219054555
+    },
+    {
+        "country": "Congo, Rep.",
+        "country_code": "COG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 56.1988143702835
+    },
+    {
+        "country": "Congo, Rep.",
+        "country_code": "COG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.8570487934502
+    },
+    {
+        "country": "Costa Rica",
+        "country_code": "CRI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.1472985859666
+    },
+    {
+        "country": "Costa Rica",
+        "country_code": "CRI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.9956579824958
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "country_code": "CIV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.6604887650452
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "country_code": "CIV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.3553887828515
+    },
+    {
+        "country": "Croatia",
+        "country_code": "HRV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 50.4917495355699
+    },
+    {
+        "country": "Croatia",
+        "country_code": "HRV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 45.4314058216943
+    },
+    {
+        "country": "Cuba",
+        "country_code": "CUB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.2133743797594
+    },
+    {
+        "country": "Cuba",
+        "country_code": "CUB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.1473888133975
+    },
+    {
+        "country": "Curacao",
+        "country_code": "CUW",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Curacao",
+        "country_code": "CUW",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 68.4941164317425
+    },
+    {
+        "country": "Cyprus",
+        "country_code": "CYP",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 75.7588643662806
+    },
+    {
+        "country": "Cyprus",
+        "country_code": "CYP",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 70.0173031293258
+    },
+    {
+        "country": "Czechia",
+        "country_code": "CZE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 72.1248511386482
+    },
+    {
+        "country": "Czechia",
+        "country_code": "CZE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 80.0125671431762
+    },
+    {
+        "country": "Denmark",
+        "country_code": "DNK",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 58.9506079167167
+    },
+    {
+        "country": "Denmark",
+        "country_code": "DNK",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 55.8143215733858
+    },
+    {
+        "country": "Djibouti",
+        "country_code": "DJI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 166.717864481384
+    },
+    {
+        "country": "Djibouti",
+        "country_code": "DJI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 145.421307480105
+    },
+    {
+        "country": "Dominica",
+        "country_code": "DMA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Dominica",
+        "country_code": "DMA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Dominican Republic",
+        "country_code": "DOM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.325332586795
+    },
+    {
+        "country": "Dominican Republic",
+        "country_code": "DOM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.0368347236543
+    },
+    {
+        "country": "Ecuador",
+        "country_code": "ECU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.0486345985713
+    },
+    {
+        "country": "Ecuador",
+        "country_code": "ECU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.754485726599
+    },
+    {
+        "country": "Egypt, Arab Rep.",
+        "country_code": "EGY",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.6440314510365
+    },
+    {
+        "country": "Egypt, Arab Rep.",
+        "country_code": "EGY",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.1838454928598
+    },
+    {
+        "country": "El Salvador",
+        "country_code": "SLV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.9559096080003
+    },
+    {
+        "country": "El Salvador",
+        "country_code": "SLV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.4861730232304
+    },
+    {
+        "country": "Equatorial Guinea",
+        "country_code": "GNQ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 51.1307495482003
+    },
+    {
+        "country": "Equatorial Guinea",
+        "country_code": "GNQ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 56.6584738218082
+    },
+    {
+        "country": "Eritrea",
+        "country_code": "ERI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Eritrea",
+        "country_code": "ERI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Estonia",
+        "country_code": "EST",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 72.0191543549198
+    },
+    {
+        "country": "Estonia",
+        "country_code": "EST",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 76.0344602333505
+    },
+    {
+        "country": "Eswatini",
+        "country_code": "SWZ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.7614845159035
+    },
+    {
+        "country": "Eswatini",
+        "country_code": "SWZ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.8587759692711
+    },
+    {
+        "country": "Ethiopia",
+        "country_code": "ETH",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 7.93996502525176
+    },
+    {
+        "country": "Ethiopia",
+        "country_code": "ETH",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 9.36331359735926
+    },
+    {
+        "country": "Faroe Islands",
+        "country_code": "FRO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 55.7697162765718
+    },
+    {
+        "country": "Faroe Islands",
+        "country_code": "FRO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 53.2164924640527
+    },
+    {
+        "country": "Fiji",
+        "country_code": "FJI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 50.6482147032588
+    },
+    {
+        "country": "Fiji",
+        "country_code": "FJI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 48.8367555799083
+    },
+    {
+        "country": "Finland",
+        "country_code": "FIN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.6183181143561
+    },
+    {
+        "country": "Finland",
+        "country_code": "FIN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.7815711349623
+    },
+    {
+        "country": "France",
+        "country_code": "FRA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 32.8895429451147
+    },
+    {
+        "country": "France",
+        "country_code": "FRA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.6934947262689
+    },
+    {
+        "country": "French Polynesia",
+        "country_code": "PYF",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.5923590296429
+    },
+    {
+        "country": "French Polynesia",
+        "country_code": "PYF",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.613765074754
+    },
+    {
+        "country": "Gabon",
+        "country_code": "GAB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 51.4310732271996
+    },
+    {
+        "country": "Gabon",
+        "country_code": "GAB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 46.0320085043705
+    },
+    {
+        "country": "Gambia, The",
+        "country_code": "GMB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.1658912380486
+    },
+    {
+        "country": "Gambia, The",
+        "country_code": "GMB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 15.5708485829147
+    },
+    {
+        "country": "Georgia",
+        "country_code": "GEO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 54.3043084100873
+    },
+    {
+        "country": "Georgia",
+        "country_code": "GEO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.1372493342596
+    },
+    {
+        "country": "Germany",
+        "country_code": "DEU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.3402444816356
+    },
+    {
+        "country": "Germany",
+        "country_code": "DEU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.5853976151835
+    },
+    {
+        "country": "Ghana",
+        "country_code": "GHA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.4495998625311
+    },
+    {
+        "country": "Ghana",
+        "country_code": "GHA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.8317048233696
+    },
+    {
+        "country": "Gibraltar",
+        "country_code": "GIB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Gibraltar",
+        "country_code": "GIB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Greece",
+        "country_code": "GRC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 39.5602885530263
+    },
+    {
+        "country": "Greece",
+        "country_code": "GRC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 32.1863593046186
+    },
+    {
+        "country": "Greenland",
+        "country_code": "GRL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.0427004962382
+    },
+    {
+        "country": "Greenland",
+        "country_code": "GRL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.5798451272169
+    },
+    {
+        "country": "Grenada",
+        "country_code": "GRD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Grenada",
+        "country_code": "GRD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Guam",
+        "country_code": "GUM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.2501966955153
+    },
+    {
+        "country": "Guam",
+        "country_code": "GUM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.0720813933437
+    },
+    {
+        "country": "Guatemala",
+        "country_code": "GTM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.6119727745274
+    },
+    {
+        "country": "Guatemala",
+        "country_code": "GTM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.8299071093932
+    },
+    {
+        "country": "Guinea",
+        "country_code": "GIN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.0420493356329
+    },
+    {
+        "country": "Guinea",
+        "country_code": "GIN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.4968719824351
+    },
+    {
+        "country": "Guinea-Bissau",
+        "country_code": "GNB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.2810341557162
+    },
+    {
+        "country": "Guinea-Bissau",
+        "country_code": "GNB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 25.0467119622253
+    },
+    {
+        "country": "Guyana",
+        "country_code": "GUY",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Guyana",
+        "country_code": "GUY",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Haiti",
+        "country_code": "HTI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 10.5576734334849
+    },
+    {
+        "country": "Haiti",
+        "country_code": "HTI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 11.767746984448
+    },
+    {
+        "country": "Honduras",
+        "country_code": "HND",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.2185209903792
+    },
+    {
+        "country": "Honduras",
+        "country_code": "HND",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 45.1667574562581
+    },
+    {
+        "country": "Hong Kong SAR, China",
+        "country_code": "HKG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 177.651315174364
+    },
+    {
+        "country": "Hong Kong SAR, China",
+        "country_code": "HKG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 195.89760161449
+    },
+    {
+        "country": "Hungary",
+        "country_code": "HUN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 81.065700696964
+    },
+    {
+        "country": "Hungary",
+        "country_code": "HUN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 87.4348841373907
+    },
+    {
+        "country": "Iceland",
+        "country_code": "ISL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.7138622775299
+    },
+    {
+        "country": "Iceland",
+        "country_code": "ISL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 51.3347744437234
+    },
+    {
+        "country": "India",
+        "country_code": "IND",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.664264897257
+    },
+    {
+        "country": "India",
+        "country_code": "IND",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.8131891564045
+    },
+    {
+        "country": "Indonesia",
+        "country_code": "IDN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.5915277970883
+    },
+    {
+        "country": "Indonesia",
+        "country_code": "IDN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.1601792598059
+    },
+    {
+        "country": "Iran, Islamic Rep.",
+        "country_code": "IRN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.3147082096412
+    },
+    {
+        "country": "Iran, Islamic Rep.",
+        "country_code": "IRN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.7208345068656
+    },
+    {
+        "country": "Iraq",
+        "country_code": "IRQ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 38.0518681988838
+    },
+    {
+        "country": "Iraq",
+        "country_code": "IRQ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.5141464410956
+    },
+    {
+        "country": "Ireland",
+        "country_code": "IRL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 131.224509342169
+    },
+    {
+        "country": "Ireland",
+        "country_code": "IRL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 126.687521960845
+    },
+    {
+        "country": "Isle of Man",
+        "country_code": "IMN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Isle of Man",
+        "country_code": "IMN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Israel",
+        "country_code": "ISR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.0853955837603
+    },
+    {
+        "country": "Israel",
+        "country_code": "ISR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.9258891134922
+    },
+    {
+        "country": "Italy",
+        "country_code": "ITA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.9498739181942
+    },
+    {
+        "country": "Italy",
+        "country_code": "ITA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.144111052532
+    },
+    {
+        "country": "Jamaica",
+        "country_code": "JAM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Jamaica",
+        "country_code": "JAM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Japan",
+        "country_code": "JPN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.0377974181499
+    },
+    {
+        "country": "Japan",
+        "country_code": "JPN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.0921099786159
+    },
+    {
+        "country": "Jordan",
+        "country_code": "JOR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Jordan",
+        "country_code": "JOR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Kazakhstan",
+        "country_code": "KAZ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.4389870990994
+    },
+    {
+        "country": "Kazakhstan",
+        "country_code": "KAZ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.5167080072354
+    },
+    {
+        "country": "Kenya",
+        "country_code": "KEN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 11.4279956869332
+    },
+    {
+        "country": "Kenya",
+        "country_code": "KEN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 15.1287339034504
+    },
+    {
+        "country": "Kiribati",
+        "country_code": "KIR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 14.9888877146964
+    },
+    {
+        "country": "Kiribati",
+        "country_code": "KIR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.957451247692
+    },
+    {
+        "country": "Korea, Dem. People's Rep.",
+        "country_code": "PRK",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Korea, Dem. People's Rep.",
+        "country_code": "PRK",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Korea, Rep.",
+        "country_code": "KOR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.0413266370488
+    },
+    {
+        "country": "Korea, Rep.",
+        "country_code": "KOR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.9681314540182
+    },
+    {
+        "country": "Kosovo",
+        "country_code": "XKX",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.3126074591152
+    },
+    {
+        "country": "Kosovo",
+        "country_code": "XKX",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.4513928552736
+    },
+    {
+        "country": "Kuwait",
+        "country_code": "KWT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.0582560763879
+    },
+    {
+        "country": "Kuwait",
+        "country_code": "KWT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 53.7653724505163
+    },
+    {
+        "country": "Kyrgyz Republic",
+        "country_code": "KGZ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.4764696600324
+    },
+    {
+        "country": "Kyrgyz Republic",
+        "country_code": "KGZ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.1896004872594
+    },
+    {
+        "country": "Lao PDR",
+        "country_code": "LAO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Lao PDR",
+        "country_code": "LAO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.9522573081909
+    },
+    {
+        "country": "Latvia",
+        "country_code": "LVA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 62.5368430163073
+    },
+    {
+        "country": "Latvia",
+        "country_code": "LVA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 62.5955625575744
+    },
+    {
+        "country": "Lebanon",
+        "country_code": "LBN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.6977589567577
+    },
+    {
+        "country": "Lebanon",
+        "country_code": "LBN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.1396677268024
+    },
+    {
+        "country": "Lesotho",
+        "country_code": "LSO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 46.2093281781161
+    },
+    {
+        "country": "Lesotho",
+        "country_code": "LSO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.8918037123102
+    },
+    {
+        "country": "Liberia",
+        "country_code": "LBR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Liberia",
+        "country_code": "LBR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Libya",
+        "country_code": "LBY",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.35532240076
+    },
+    {
+        "country": "Libya",
+        "country_code": "LBY",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.2273741215145
+    },
+    {
+        "country": "Liechtenstein",
+        "country_code": "LIE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Liechtenstein",
+        "country_code": "LIE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Lithuania",
+        "country_code": "LTU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 76.8187229886379
+    },
+    {
+        "country": "Lithuania",
+        "country_code": "LTU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 68.6043807818409
+    },
+    {
+        "country": "Luxembourg",
+        "country_code": "LUX",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 206.580145839872
+    },
+    {
+        "country": "Luxembourg",
+        "country_code": "LUX",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 191.835428725013
+    },
+    {
+        "country": "Macao SAR, China",
+        "country_code": "MAC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 82.646781315937
+    },
+    {
+        "country": "Macao SAR, China",
+        "country_code": "MAC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 78.704970614381
+    },
+    {
+        "country": "Madagascar",
+        "country_code": "MDG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.4244012431975
+    },
+    {
+        "country": "Madagascar",
+        "country_code": "MDG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.3906461296836
+    },
+    {
+        "country": "Malawi",
+        "country_code": "MWI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.9894565946906
+    },
+    {
+        "country": "Malawi",
+        "country_code": "MWI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Malaysia",
+        "country_code": "MYS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 65.2777668428576
+    },
+    {
+        "country": "Malaysia",
+        "country_code": "MYS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 69.4486908970754
+    },
+    {
+        "country": "Maldives",
+        "country_code": "MDV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 65.5134179400092
+    },
+    {
+        "country": "Maldives",
+        "country_code": "MDV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 76.4277887724561
+    },
+    {
+        "country": "Mali",
+        "country_code": "MLI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.7272254994959
+    },
+    {
+        "country": "Mali",
+        "country_code": "MLI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 20.2239475938187
+    },
+    {
+        "country": "Malta",
+        "country_code": "MLT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 124.520039315181
+    },
+    {
+        "country": "Malta",
+        "country_code": "MLT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 108.732584061859
+    },
+    {
+        "country": "Marshall Islands",
+        "country_code": "MHL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.0618720480893
+    },
+    {
+        "country": "Marshall Islands",
+        "country_code": "MHL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.2421883505716
+    },
+    {
+        "country": "Mauritania",
+        "country_code": "MRT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.3975240406607
+    },
+    {
+        "country": "Mauritania",
+        "country_code": "MRT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.1951447553349
+    },
+    {
+        "country": "Mauritius",
+        "country_code": "MUS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 60.3459360407147
+    },
+    {
+        "country": "Mauritius",
+        "country_code": "MUS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 64.5652688880706
+    },
+    {
+        "country": "Mexico",
+        "country_code": "MEX",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 38.5296507889335
+    },
+    {
+        "country": "Mexico",
+        "country_code": "MEX",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.1627726891004
+    },
+    {
+        "country": "Micronesia, Fed. Sts.",
+        "country_code": "FSM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.4430379746835
+    },
+    {
+        "country": "Micronesia, Fed. Sts.",
+        "country_code": "FSM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.525641025641
+    },
+    {
+        "country": "Moldova",
+        "country_code": "MDA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.1910849579769
+    },
+    {
+        "country": "Moldova",
+        "country_code": "MDA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.8069217883307
+    },
+    {
+        "country": "Monaco",
+        "country_code": "MCO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Monaco",
+        "country_code": "MCO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Mongolia",
+        "country_code": "MNG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 59.2172331806539
+    },
+    {
+        "country": "Mongolia",
+        "country_code": "MNG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.1840502346828
+    },
+    {
+        "country": "Montenegro",
+        "country_code": "MNE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.3238379207013
+    },
+    {
+        "country": "Montenegro",
+        "country_code": "MNE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.7283879053238
+    },
+    {
+        "country": "Morocco",
+        "country_code": "MAR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.093057468891
+    },
+    {
+        "country": "Morocco",
+        "country_code": "MAR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 29.9958538899695
+    },
+    {
+        "country": "Mozambique",
+        "country_code": "MOZ",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.1420563608323
+    },
+    {
+        "country": "Mozambique",
+        "country_code": "MOZ",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 32.5722935328402
+    },
+    {
+        "country": "Myanmar",
+        "country_code": "MMR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Myanmar",
+        "country_code": "MMR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Namibia",
+        "country_code": "NAM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.4008818615818
+    },
+    {
+        "country": "Namibia",
+        "country_code": "NAM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.3708484097637
+    },
+    {
+        "country": "Naoero",
+        "country_code": "NRU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 60.3950285714286
+    },
+    {
+        "country": "Naoero",
+        "country_code": "NRU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 71.5686274509804
+    },
+    {
+        "country": "Nepal",
+        "country_code": "NPL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 7.77993647445109
+    },
+    {
+        "country": "Nepal",
+        "country_code": "NPL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 10.2145885930146
+    },
+    {
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 85.3209394926528
+    },
+    {
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 83.9918475345943
+    },
+    {
+        "country": "New Caledonia",
+        "country_code": "NCL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.3293636039604
+    },
+    {
+        "country": "New Caledonia",
+        "country_code": "NCL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.0691662889356
+    },
+    {
+        "country": "New Zealand",
+        "country_code": "NZL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.320284070356
+    },
+    {
+        "country": "New Zealand",
+        "country_code": "NZL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.9457760345104
+    },
+    {
+        "country": "Nicaragua",
+        "country_code": "NIC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 44.8044297851925
+    },
+    {
+        "country": "Nicaragua",
+        "country_code": "NIC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.0837782888412
+    },
+    {
+        "country": "Niger",
+        "country_code": "NER",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 11.9560620288967
+    },
+    {
+        "country": "Niger",
+        "country_code": "NER",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 14.2683699619368
+    },
+    {
+        "country": "Nigeria",
+        "country_code": "NGA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Nigeria",
+        "country_code": "NGA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "North Macedonia",
+        "country_code": "MKD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 62.4080567878813
+    },
+    {
+        "country": "North Macedonia",
+        "country_code": "MKD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 48.7379999069691
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "country_code": "MNP",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 42.4936386768448
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "country_code": "MNP",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.967032967033
+    },
+    {
+        "country": "Norway",
+        "country_code": "NOR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.6950517697888
+    },
+    {
+        "country": "Norway",
+        "country_code": "NOR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.7795790425628
+    },
+    {
+        "country": "Oman",
+        "country_code": "OMN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 49.4929030047786
+    },
+    {
+        "country": "Oman",
+        "country_code": "OMN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 49.652560938135
+    },
+    {
+        "country": "Pakistan",
+        "country_code": "PAK",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 9.3908635386027
+    },
+    {
+        "country": "Pakistan",
+        "country_code": "PAK",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 9.97457095124036
+    },
+    {
+        "country": "Palau",
+        "country_code": "PLW",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 38.3226341885556
+    },
+    {
+        "country": "Palau",
+        "country_code": "PLW",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 53.640192108917
+    },
+    {
+        "country": "Panama",
+        "country_code": "PAN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.2141745207689
+    },
+    {
+        "country": "Panama",
+        "country_code": "PAN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 47.3866198943049
+    },
+    {
+        "country": "Papua New Guinea",
+        "country_code": "PNG",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Papua New Guinea",
+        "country_code": "PNG",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Paraguay",
+        "country_code": "PRY",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.0872909434467
+    },
+    {
+        "country": "Paraguay",
+        "country_code": "PRY",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.734658699956
+    },
+    {
+        "country": "Peru",
+        "country_code": "PER",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.0390874349068
+    },
+    {
+        "country": "Peru",
+        "country_code": "PER",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.2873252858958
+    },
+    {
+        "country": "Philippines",
+        "country_code": "PHL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.3829200126393
+    },
+    {
+        "country": "Philippines",
+        "country_code": "PHL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.2080572390451
+    },
+    {
+        "country": "Poland",
+        "country_code": "POL",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.6128934811742
+    },
+    {
+        "country": "Poland",
+        "country_code": "POL",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 47.1616367257527
+    },
+    {
+        "country": "Portugal",
+        "country_code": "PRT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 43.6531259432991
+    },
+    {
+        "country": "Portugal",
+        "country_code": "PRT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.6876664090066
+    },
+    {
+        "country": "Puerto Rico (US)",
+        "country_code": "PRI",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 60.5788840862048
+    },
+    {
+        "country": "Puerto Rico (US)",
+        "country_code": "PRI",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 67.1949349700848
+    },
+    {
+        "country": "Qatar",
+        "country_code": "QAT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.1888599262863
+    },
+    {
+        "country": "Qatar",
+        "country_code": "QAT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 57.061477766584
+    },
+    {
+        "country": "Romania",
+        "country_code": "ROU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.3352034270657
+    },
+    {
+        "country": "Romania",
+        "country_code": "ROU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.3491935848306
+    },
+    {
+        "country": "Russian Federation",
+        "country_code": "RUS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.4334306799759
+    },
+    {
+        "country": "Russian Federation",
+        "country_code": "RUS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 28.703389442924
+    },
+    {
+        "country": "Rwanda",
+        "country_code": "RWA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.0304453174238
+    },
+    {
+        "country": "Rwanda",
+        "country_code": "RWA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.3866171186652
+    },
+    {
+        "country": "Samoa",
+        "country_code": "WSM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 35.033330142378
+    },
+    {
+        "country": "Samoa",
+        "country_code": "WSM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.1409467284846
+    },
+    {
+        "country": "San Marino",
+        "country_code": "SMR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 163.997236624232
+    },
+    {
+        "country": "San Marino",
+        "country_code": "SMR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 174.452679413476
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "country_code": "STP",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.7195626461315
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "country_code": "STP",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.708137548603
+    },
+    {
+        "country": "Saudi Arabia",
+        "country_code": "SAU",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 32.159204977113
+    },
+    {
+        "country": "Saudi Arabia",
+        "country_code": "SAU",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.4401316153804
+    },
+    {
+        "country": "Senegal",
+        "country_code": "SEN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.9831341973865
+    },
+    {
+        "country": "Senegal",
+        "country_code": "SEN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.6771945016724
+    },
+    {
+        "country": "Serbia",
+        "country_code": "SRB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 48.9609956559925
+    },
+    {
+        "country": "Serbia",
+        "country_code": "SRB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 43.3851219752155
+    },
+    {
+        "country": "Seychelles",
+        "country_code": "SYC",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 82.3562686214226
+    },
+    {
+        "country": "Seychelles",
+        "country_code": "SYC",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 90.0846282601248
+    },
+    {
+        "country": "Sierra Leone",
+        "country_code": "SLE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 9.6941408328194
+    },
+    {
+        "country": "Sierra Leone",
+        "country_code": "SLE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 10.4849570007466
+    },
+    {
+        "country": "Singapore",
+        "country_code": "SGP",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 176.819042272174
+    },
+    {
+        "country": "Singapore",
+        "country_code": "SGP",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 178.384608499682
+    },
+    {
+        "country": "Sint Maarten (Dutch part)",
+        "country_code": "SXM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Sint Maarten (Dutch part)",
+        "country_code": "SXM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Slovak Republic",
+        "country_code": "SVK",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 91.8440865121276
+    },
+    {
+        "country": "Slovak Republic",
+        "country_code": "SVK",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 90.6938496191421
+    },
+    {
+        "country": "Slovenia",
+        "country_code": "SVN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 84.3570583498527
+    },
+    {
+        "country": "Slovenia",
+        "country_code": "SVN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 77.6641701406595
+    },
+    {
+        "country": "Solomon Islands",
+        "country_code": "SLB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.4970023039809
+    },
+    {
+        "country": "Solomon Islands",
+        "country_code": "SLB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.3605536351233
+    },
+    {
+        "country": "Somalia, Fed. Rep.",
+        "country_code": "SOM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.0660813308688
+    },
+    {
+        "country": "Somalia, Fed. Rep.",
+        "country_code": "SOM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.8715688310983
+    },
+    {
+        "country": "South Africa",
+        "country_code": "ZAF",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.2021294051151
+    },
+    {
+        "country": "South Africa",
+        "country_code": "ZAF",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.7136384124829
+    },
+    {
+        "country": "South Sudan",
+        "country_code": "SSD",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "South Sudan",
+        "country_code": "SSD",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 36.6513492804707
+    },
+    {
+        "country": "Spain",
+        "country_code": "ESP",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.6755629292261
+    },
+    {
+        "country": "Spain",
+        "country_code": "ESP",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.2986849561039
+    },
+    {
+        "country": "Sri Lanka",
+        "country_code": "LKA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.8235309246323
+    },
+    {
+        "country": "Sri Lanka",
+        "country_code": "LKA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.893383820467
+    },
+    {
+        "country": "St. Kitts and Nevis",
+        "country_code": "KNA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Kitts and Nevis",
+        "country_code": "KNA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Lucia",
+        "country_code": "LCA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Lucia",
+        "country_code": "LCA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Martin (French part)",
+        "country_code": "MAF",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Martin (French part)",
+        "country_code": "MAF",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Vincent and the Grenadines",
+        "country_code": "VCT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "St. Vincent and the Grenadines",
+        "country_code": "VCT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Sudan",
+        "country_code": "SDN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 8.45298341762853
+    },
+    {
+        "country": "Sudan",
+        "country_code": "SDN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 6.42291092918573
+    },
+    {
+        "country": "Suriname",
+        "country_code": "SUR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Suriname",
+        "country_code": "SUR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Sweden",
+        "country_code": "SWE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 48.2886583812982
+    },
+    {
+        "country": "Sweden",
+        "country_code": "SWE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 43.7114624281719
+    },
+    {
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 66.1484505764437
+    },
+    {
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 63.254588058839
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "country_code": "SYR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 13.0100655511925
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "country_code": "SYR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 14.2911061178655
+    },
+    {
+        "country": "Tajikistan",
+        "country_code": "TJK",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 14.9799392742745
+    },
+    {
+        "country": "Tajikistan",
+        "country_code": "TJK",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 9.80269842951246
+    },
+    {
+        "country": "Tanzania",
+        "country_code": "TZA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.0367461484986
+    },
+    {
+        "country": "Tanzania",
+        "country_code": "TZA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.1049115530965
+    },
+    {
+        "country": "Thailand",
+        "country_code": "THA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 59.5188906218859
+    },
+    {
+        "country": "Thailand",
+        "country_code": "THA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 67.6366902705865
+    },
+    {
+        "country": "Timor-Leste",
+        "country_code": "TLS",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 21.2143177359833
+    },
+    {
+        "country": "Timor-Leste",
+        "country_code": "TLS",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 3.05030729133392
+    },
+    {
+        "country": "Togo",
+        "country_code": "TGO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 23.9067157858872
+    },
+    {
+        "country": "Togo",
+        "country_code": "TGO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 26.7106298715077
+    },
+    {
+        "country": "Tonga",
+        "country_code": "TON",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.2333008455097
+    },
+    {
+        "country": "Tonga",
+        "country_code": "TON",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.9581444477641
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "country_code": "TTO",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "country_code": "TTO",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Tunisia",
+        "country_code": "TUN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 45.9503306922947
+    },
+    {
+        "country": "Tunisia",
+        "country_code": "TUN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 38.3998387567342
+    },
+    {
+        "country": "Turkiye",
+        "country_code": "TUR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.0298811646869
+    },
+    {
+        "country": "Turkiye",
+        "country_code": "TUR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 25.280784580735
+    },
+    {
+        "country": "Turkmenistan",
+        "country_code": "TKM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.6892177117083
+    },
+    {
+        "country": "Turkmenistan",
+        "country_code": "TKM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 33.9780175420394
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "country_code": "TCA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "country_code": "TCA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Tuvalu",
+        "country_code": "TUV",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Tuvalu",
+        "country_code": "TUV",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Uganda",
+        "country_code": "UGA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 17.1090580167383
+    },
+    {
+        "country": "Uganda",
+        "country_code": "UGA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.8773253147369
+    },
+    {
+        "country": "Ukraine",
+        "country_code": "UKR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.2316912560049
+    },
+    {
+        "country": "Ukraine",
+        "country_code": "UKR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 52.5976795082231
+    },
+    {
+        "country": "United Arab Emirates",
+        "country_code": "ARE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 93.3023068879995
+    },
+    {
+        "country": "United Arab Emirates",
+        "country_code": "ARE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 93.8625203312699
+    },
+    {
+        "country": "United Kingdom",
+        "country_code": "GBR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 31.9028602803155
+    },
+    {
+        "country": "United Kingdom",
+        "country_code": "GBR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.8790736176463
+    },
+    {
+        "country": "United States",
+        "country_code": "USA",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 11.7891974097286
+    },
+    {
+        "country": "United States",
+        "country_code": "USA",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.4111486301271
+    },
+    {
+        "country": "Uruguay",
+        "country_code": "URY",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 27.9053781710424
+    },
+    {
+        "country": "Uruguay",
+        "country_code": "URY",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 22.4778512515741
+    },
+    {
+        "country": "Uzbekistan",
+        "country_code": "UZB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 24.3107685844352
+    },
+    {
+        "country": "Uzbekistan",
+        "country_code": "UZB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 12.1686103143078
+    },
+    {
+        "country": "Vanuatu",
+        "country_code": "VUT",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 30.9251687275235
+    },
+    {
+        "country": "Vanuatu",
+        "country_code": "VUT",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.7621346205417
+    },
+    {
+        "country": "Venezuela, RB",
+        "country_code": "VEN",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 47.195725949267
+    },
+    {
+        "country": "Venezuela, RB",
+        "country_code": "VEN",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 40.7547169811321
+    },
+    {
+        "country": "Viet Nam",
+        "country_code": "VNM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 85.1575874073411
+    },
+    {
+        "country": "Viet Nam",
+        "country_code": "VNM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 72.9228518369495
+    },
+    {
+        "country": "Virgin Islands (U.S.)",
+        "country_code": "VIR",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 54.9623877699587
+    },
+    {
+        "country": "Virgin Islands (U.S.)",
+        "country_code": "VIR",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 41.6325416325416
+    },
+    {
+        "country": "West Bank and Gaza",
+        "country_code": "PSE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 15.5210552426533
+    },
+    {
+        "country": "West Bank and Gaza",
+        "country_code": "PSE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 16.0623801208096
+    },
+    {
+        "country": "Yemen, Rep.",
+        "country_code": "YEM",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": null
+    },
+    {
+        "country": "Yemen, Rep.",
+        "country_code": "YEM",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 9.05157754562319
+    },
+    {
+        "country": "Zambia",
+        "country_code": "ZMB",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 34.6361926031881
+    },
+    {
+        "country": "Zambia",
+        "country_code": "ZMB",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 37.1385258014734
+    },
+    {
+        "country": "Zimbabwe",
+        "country_code": "ZWE",
+        "year": 2019,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 18.0339064047572
+    },
+    {
+        "country": "Zimbabwe",
+        "country_code": "ZWE",
+        "year": 2015,
+        "indicator": "Exports of goods and services (% of GDP)",
+        "value": 19.160627339066
+    }
+]
